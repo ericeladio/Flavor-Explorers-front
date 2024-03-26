@@ -1,0 +1,78 @@
+productID,productName,quantityPerUnit,unitPrice,discontinued,categoryID,img
+1,Chai,10 boxes x 20 bags,18,0,1,https://images.pexels.com/photos/2262832/pexels-photo-2262832.jpeg?auto=compress&cs=tinysrgb&w=600
+2,Chang,24 - 12 oz bottles,19,0,1,https://images.pexels.com/photos/12207197/pexels-photo-12207197.jpeg?auto=compress&cs=tinysrgb&w=600
+3,Aniseed Syrup,12 - 550 ml bottles,10,0,2,https://images.pexels.com/photos/5591668/pexels-photo-5591668.jpeg?auto=compress&cs=tinysrgb&w=600
+4,Chef Anton's Cajun Seasoning,48 - 6 oz jars,22,0,2,https://images.pexels.com/photos/2632292/pexels-photo-2632292.jpeg?auto=compress&cs=tinysrgb&w=600
+5,Chef Anton's Gumbo Mix,36 boxes,21.35,1,2,https://images.pexels.com/photos/6578894/pexels-photo-6578894.jpeg?auto=compress&cs=tinysrgb&w=600
+6,Grandma's Boysenberry Spread,12 - 8 oz jars,25,0,2,https://images.pexels.com/photos/4963713/pexels-photo-4963713.jpeg?auto=compress&cs=tinysrgb&w=600
+7,Uncle Bob's Organic Dried Pears,12 - 1 lb pkgs.,30,0,7,https://media.istockphoto.com/id/1061433726/photo/healthy-sun-dried-pears-made-of-fresh-fruits.jpg?b=1&s=612x612&w=0&k=20&c=d3PNA5egOD7sNt74_EBNZHSvWyS2SHQFfIE9SRn4gkQ=
+8,Northwoods Cranberry Sauce,12 - 12 oz jars,40,0,2,https://images.pexels.com/photos/5718097/pexels-photo-5718097.jpeg?auto=compress&cs=tinysrgb&w=600
+9,Mishi Kobe Niku,18 - 500 g pkgs.,97,1,6,https://media.istockphoto.com/id/508579300/photo/kobe-beef.jpg?b=1&s=612x612&w=0&k=20&c=m6xi-tjprNEKqsXNFK0ofcPn7gyeIedB1PRhO-Bd7B0=
+10,Ikura,12 - 200 ml jars,31,0,8,https://images.pexels.com/photos/3522503/pexels-photo-3522503.jpeg?auto=compress&cs=tinysrgb&w=600
+11,Queso Cabrales,1 kg pkg.,21,0,4,https://media.istockphoto.com/id/1316667977/photo/spanish-cured-cheese-with-rustic-background.jpg?b=1&s=612x612&w=0&k=20&c=tPhplHFbZv4ae96uA8bDLzGa5Dy1n7l2t4_DldHlfvQ=
+12,Queso Manchego La Pastora,10 - 500 g pkgs.,38,0,4,https://media.istockphoto.com/id/1223488653/photo/spanish-cheese-manchego-made-from-sheep-milk.jpg?b=1&s=612x612&w=0&k=20&c=SnK1HxDFcMmACtqDGHQ1LRUHfdKUIzhR4NpkDRSo6bE=
+13,Konbu,2 kg box,6,0,8,https://media.istockphoto.com/id/844721874/photo/kelp.jpg?b=1&s=612x612&w=0&k=20&c=el8YYDABWpBnMApY5QhHcwqgielL9hCXytlvhL4CVU0=
+14,Tofu,40 - 100 g pkgs.,23.25,0,7,https://images.pexels.com/photos/4518586/pexels-photo-4518586.jpeg?auto=compress&cs=tinysrgb&w=600
+15,Genen Shouyu,24 - 250 ml bottles,15.5,0,2,https://media.istockphoto.com/id/1224854779/photo/soy-sauce-in-glass-bottle-and-bowl-isolated-on-white.jpg?b=1&s=612x612&w=0&k=20&c=bfUpsOgpvtyH9Y_NQoiP6yW9QJuWJ-LBm_PGeOZWk1Y=
+16,Pavlova,32 - 500 g boxes,17.45,0,3,https://images.pexels.com/photos/6376843/pexels-photo-6376843.jpeg?auto=compress&cs=tinysrgb&w=600
+17,Alice Mutton,20 - 1 kg tins,39,1,6,https://media.istockphoto.com/id/1272367874/photo/turkish-kebab-with-rice-for-background-and-food-menu.jpg?b=1&s=612x612&w=0&k=20&c=hSZIBGWLuA7TJElaskvfo7Y1j5i5_EWMeHeiqcAK0yQ=
+18,Carnarvon Tigers,16 kg pkg.,62.5,0,8,https://images.pexels.com/photos/410648/pexels-photo-410648.jpeg?auto=compress&cs=tinysrgb&w=600
+19,Teatime Chocolate Biscuits,10 boxes x 12 pieces,9.2,0,3,https://images.pexels.com/photos/7296685/pexels-photo-7296685.jpeg?auto=compress&cs=tinysrgb&w=600
+20,Sir Rodney's Marmalade,30 gift boxes,81,0,3,https://images.pexels.com/photos/96580/pexels-photo-96580.jpeg?auto=compress&cs=tinysrgb&w=600
+21,Sir Rodney's Scones,24 pkgs. x 4 pieces,10,0,3,https://media.istockphoto.com/id/171285307/photo/freshly-baked-scones.jpg?b=1&s=612x612&w=0&k=20&c=abZVzo6DLGdr-6q1SAAtlP-uz6QyBFDGfRJbt1x2MR0=
+22,Gustaf's Knackebrd,24 - 500 g pkgs.,21,0,5,https://images.pexels.com/photos/745988/pexels-photo-745988.jpeg?auto=compress&cs=tinysrgb&w=600
+23,Tunnbrd,12 - 250 g pkgs.,9,0,5,https://images.pexels.com/photos/5737840/pexels-photo-5737840.jpeg?auto=compress&cs=tinysrgb&w=600
+24,Guarana Fantastica,12 - 355 ml cans,4.5,1,1,https://media.istockphoto.com/id/1173645558/photo/amazon-guarana.jpg?b=1&s=612x612&w=0&k=20&c=wc4mcaUYYWscxAWMV-hwPKbjHOjue3gCIFdB8xWd9Os=
+25,NuNuCaNu-Nougat-Creme,20 - 450 g glasses,14,0,3,https://media.istockphoto.com/id/474329020/photo/jar-of-peanut-butter.jpg?b=1&s=612x612&w=0&k=20&c=UQQdvvrm779SIie7OuKZsHCwC2pjn3WqZssJR8dCePQ=
+26,Gumbr Gummibrchen,100 - 250 g bags,31.23,0,3,https://media.istockphoto.com/id/495110540/photo/multicolored-candies.jpg?b=1&s=612x612&w=0&k=20&c=Utrq-U37_01W8l2tCzAe7RU-AKol8f6dTxx4695l6yA=
+27,Schoggi Schokolade,100 - 100 g pieces,43.9,0,3,https://images.pexels.com/photos/2373520/pexels-photo-2373520.jpeg?auto=compress&cs=tinysrgb&w=600
+28,Rssle Sauerkraut,25 - 825 g cans,45.6,1,7,https://images.pexels.com/photos/8601414/pexels-photo-8601414.jpeg?auto=compress&cs=tinysrgb&w=600
+29,Thringer Rostbratwurst,50 bags x 30 sausgs.,123.79,1,6,https://media.istockphoto.com/id/502131131/photo/barbecue-sausages.jpg?b=1&s=612x612&w=0&k=20&c=SlTOzGx3B70_rSQYSsCrGntp-KMFkGM5kttenJcOD0U=
+30,Nord-Ost Matjeshering,10 - 200 g glasses,25.89,0,8,https://media.istockphoto.com/id/1485163142/photo/homemade-pickled-young-herring-fillet.jpg?b=1&s=612x612&w=0&k=20&c=J60gNQDZNP_UOamM10SmjdLFHQb4ARbLbKFpjD91fWA=
+31,Gorgonzola Telino,12 - 100 g pkgs,12.5,0,4,https://media.istockphoto.com/id/670730436/photo/slow-cooked-chicken-delino.jpg?b=1&s=612x612&w=0&k=20&c=N0s-VDJ_BY0bwjC1Yi7ElS8Lq3_0oFlkLB7GRFhlBzI=
+32,Mascarpone Fabioli,24 - 200 g pkgs.,32,0,4,https://media.istockphoto.com/id/1129676506/photo/traditional-mascarpone-cheese-in-wooden-bowl-on-table.jpg?b=1&s=612x612&w=0&k=20&c=9eBk9fwFIzougRi8PXJ9qrwRjzHVwaO0o_5qYTagLic=
+33,Geitost,500 g,2.5,0,4,https://images.pexels.com/photos/6287521/pexels-photo-6287521.jpeg?auto=compress&cs=tinysrgb&w=600
+34,Sasquatch Ale,24 - 12 oz bottles,14,0,1,https://images.pexels.com/photos/5538168/pexels-photo-5538168.jpeg?auto=compress&cs=tinysrgb&w=600
+35,Steeleye Stout,24 - 12 oz bottles,18,0,1,https://images.pexels.com/photos/5659753/pexels-photo-5659753.jpeg?auto=compress&cs=tinysrgb&w=600
+36,Inlagd Sill,24 - 250 g  jars,19,0,8,https://images.pexels.com/photos/17497203/pexels-photo-17497203/free-photo-of-can-and-glass-of-beer.jpeg?auto=compress&cs=tinysrgb&w=600
+37,Gravad lax,12 - 500 g pkgs.,26,0,8,https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=600
+38,Cte de Blaye,12 - 75 cl bottles,263.5,0,1,https://images.pexels.com/photos/1545529/pexels-photo-1545529.jpeg?auto=compress&cs=tinysrgb&w=600
+39,Chartreuse verte,750 cc per bottle,18,0,1,https://images.pexels.com/photos/2912108/pexels-photo-2912108.jpeg?auto=compress&cs=tinysrgb&w=600
+40,Boston Crab Meat,24 - 4 oz tins,18.4,0,8,https://images.pexels.com/photos/1479706/pexels-photo-1479706.jpeg?auto=compress&cs=tinysrgb&w=600
+41,Jack's New England Clam Chowder,12 - 12 oz cans,9.65,0,8,https://images.pexels.com/photos/121191/pexels-photo-121191.jpeg?auto=compress&cs=tinysrgb&w=600
+42,Singaporean Hokkien Fried Mee,32 - 1 kg pkgs.,14,1,5,https://images.pexels.com/photos/2308939/pexels-photo-2308939.jpeg?auto=compress&cs=tinysrgb&w=600
+43,Ipoh Coffee,16 - 500 g tins,46,0,1,https://media.istockphoto.com/id/1303583671/photo/cup-glass-of-coffee-with-smoke-and-coffee-beans-on-old-wooden-background.jpg?b=1&s=612x612&w=0&k=20&c=7UiCQYl4j3J-1hWbtVUXEP4dC0GP6sbDhIEfUkTX1jE=
+44,Gula Malacca,20 - 2 kg bags,19.45,0,2,https://media.istockphoto.com/id/1335142835/photo/compote.jpg?b=1&s=612x612&w=0&k=20&c=O5z4tXrwuDi3T72Ulppz7oJnJUJJPSoyH7ldTd1ZCzE=
+45,Rogede sild,1k pkg.,9.5,0,8,https://media.istockphoto.com/id/589579102/photo/isolated-anchovies.jpg?b=1&s=612x612&w=0&k=20&c=eLu316lxZdE06NYd7j1sRLcCkMe0htGMYooGIkK6Ccs=
+46,Spegesild,4 - 450 g glasses,12,0,8,https://media.istockphoto.com/id/1350201328/photo/anchovy-in-a-round-teflon-pan-on-the-stove.jpg?b=1&s=612x612&w=0&k=20&c=xcKOeFJBkiiqdXtNNTqmDOJuqZW-uJ2GjnVaYhhlFtI=
+47,Zaanse koeken,10 - 4 oz boxes,9.5,0,3,https://images.pexels.com/photos/298485/pexels-photo-298485.jpeg?auto=compress&cs=tinysrgb&w=600
+48,Chocolade,10 pkgs.,12.75,0,3,https://images.pexels.com/photos/65882/chocolate-dark-coffee-confiserie-65882.jpeg?auto=compress&cs=tinysrgb&w=600
+49,Maxilaku,24 - 50 g pkgs.,20,0,3,https://images.pexels.com/photos/4110096/pexels-photo-4110096.jpeg?auto=compress&cs=tinysrgb&w=600
+50,Valkoinen suklaa,12 - 100 g bars,16.25,0,3,https://images.pexels.com/photos/1854664/pexels-photo-1854664.jpeg?auto=compress&cs=tinysrgb&w=600
+51,Manjimup Dried Apples,50 - 300 g pkgs.,53,0,7,https://media.istockphoto.com/id/515201669/photo/baked-dehydrated-apples-chips.jpg?b=1&s=612x612&w=0&k=20&c=Y9NdpniWyBSKhcdX2y8H4oci4_ikmu42VMKHn9yLBLc=
+52,Filo Mix,16 - 2 kg boxes,7,0,5,https://images.pexels.com/photos/237996/pexels-photo-237996.jpeg?auto=compress&cs=tinysrgb&w=600
+53,Perth Pasties,48 pieces,32.8,1,6,https://media.istockphoto.com/id/615488680/photo/cornish-pasty.jpg?b=1&s=612x612&w=0&k=20&c=ktYQ5AwrVhBDT9lrEVTNL-S8QWKbyUFtDZQa3a0rSOw=
+54,Tourtire,16 pies,7.45,0,6,https://images.pexels.com/photos/162688/cheesecake-table-dessert-cream-162688.jpeg?auto=compress&cs=tinysrgb&w=600
+55,Pt chinois,24 boxes x 2 pies,24,0,6,https://media.istockphoto.com/id/1156170838/photo/green-pea-seed-produce-in-a-grocery-store.jpg?b=1&s=612x612&w=0&k=20&c=2SC5DN2A9XWovG4SF0G42b6AdG1LDmSmAQ274jvYt5Q=
+56,Gnocchi di nonna Alice,24 - 250 g pkgs.,38,0,5,https://images.pexels.com/photos/3590401/pexels-photo-3590401.jpeg?auto=compress&cs=tinysrgb&w=600
+57,Ravioli Angelo,24 - 250 g pkgs.,19.5,0,5,https://images.pexels.com/photos/8112934/pexels-photo-8112934.jpeg?auto=compress&cs=tinysrgb&w=600
+58,Escargots de Bourgogne,24 pieces,13.25,0,8,https://images.pexels.com/photos/306801/pexels-photo-306801.jpeg?auto=compress&cs=tinysrgb&w=600
+59,Raclette Courdavault,5 kg pkg.,55,0,4,https://images.pexels.com/photos/1439328/pexels-photo-1439328.jpeg?auto=compress&cs=tinysrgb&w=600
+60,Camembert Pierrot,15 - 300 g rounds,34,0,4,https://images.pexels.com/photos/4109943/pexels-photo-4109943.jpeg?auto=compress&cs=tinysrgb&w=600
+61,Sirop d'rable,24 - 500 ml bottles,28.5,0,2,https://images.pexels.com/photos/2059236/pexels-photo-2059236.jpeg?auto=compress&cs=tinysrgb&w=600
+62,Tarte au sucre,48 pies,49.3,0,3,https://images.pexels.com/photos/2740697/pexels-photo-2740697.jpeg?auto=compress&cs=tinysrgb&w=600
+63,Vegie-spread,15 - 625 g jars,43.9,0,2,https://images.pexels.com/photos/5336707/pexels-photo-5336707.jpeg?auto=compress&cs=tinysrgb&w=600
+64,Wimmers gute Semmelkndel,20 bags x 4 pieces,33.25,0,5,https://images.pexels.com/photos/17508437/pexels-photo-17508437/free-photo-of-close-up-of-food-lying-on-plates-on-display.jpeg?auto=compress&cs=tinysrgb&w=600
+65,Louisiana Fiery Hot Pepper Sauce,32 - 8 oz bottles,21.05,0,2,https://images.pexels.com/photos/6941017/pexels-photo-6941017.jpeg?auto=compress&cs=tinysrgb&w=600
+66,Louisiana Hot Spiced Okra,24 - 8 oz jars,17,0,2,https://images.pexels.com/photos/4198416/pexels-photo-4198416.jpeg?auto=compress&cs=tinysrgb&w=600
+67,Laughing Lumberjack Lager,24 - 12 oz bottles,14,0,1,https://images.pexels.com/photos/418225/pexels-photo-418225.jpeg?auto=compress&cs=tinysrgb&w=600
+68,Scottish Longbreads,10 boxes x 8 pieces,12.5,0,3,https://media.istockphoto.com/id/1511808160/photo/fresh-homemade-artisan-loaf-of-baguette-breads-on-rustic-background-with-copy-space-sourdough.jpg?b=1&s=612x612&w=0&k=20&c=hmLXREQ6aW40Zi_9YWhe90lv6Uv4DbjEU--WhjH0eBs=
+69,Gudbrandsdalsost,10 kg pkg.,36,0,4,https://media.istockphoto.com/id/1091279924/photo/block-of-traditional-norwegian-sweet-brown-cheese-and-cheese-cutter-gudbrandsdalsost-close-up.jpg?b=1&s=612x612&w=0&k=20&c=rUO7SqRdcQKK-QWNV9Au5uq43fCpX5KIpeTWRvyrzsM=
+70,Outback Lager,24 - 355 ml bottles,15,0,1,https://images.pexels.com/photos/2574851/pexels-photo-2574851.jpeg?auto=compress&cs=tinysrgb&w=600
+71,Flotemysost,10 - 500 g pkgs.,21.5,0,4,https://media.istockphoto.com/id/1015524272/photo/norwegian-cheese-brunost.jpg?b=1&s=612x612&w=0&k=20&c=VIqIpHoOCtPmBDHR-3GNJsrvlczGcLb_18aL5CORA8I=
+72,Mozzarella di Giovanni,24 - 200 g pkgs.,34.8,0,4,https://media.istockphoto.com/id/1341216531/photo/italian-buffalo-mozzarella-isolated-on-white-background.jpg?b=1&s=612x612&w=0&k=20&c=RhPg1WO2UUadbL-FDJTn9br32ah3fpI1rvZCbBfnaqI=
+73,Rd Kaviar,24 - 150 g jars,15,0,8,https://media.istockphoto.com/id/1654442201/photo/trout-caviar-in-a-glass-with-lemaon-isolated-on-white-background.jpg?b=1&s=612x612&w=0&k=20&c=FcIOzaw-LbfrWChdapD1nHPWARLwI9ODbFwQI5FP4zw=
+74,Longlife Tofu,5 kg pkg.,10,0,7,https://images.pexels.com/photos/4518586/pexels-photo-4518586.jpeg?auto=compress&cs=tinysrgb&w=600
+75,Rhnbru Klosterbier,24 - 0.5 l bottles,7.75,0,1,https://images.pexels.com/photos/3876634/pexels-photo-3876634.jpeg?auto=compress&cs=tinysrgb&w=600
+76,Lakkalikri,500 ml,18,0,1,https://images.pexels.com/photos/5538236/pexels-photo-5538236.jpeg?auto=compress&cs=tinysrgb&w=600
+77,Original Frankfurter Grne Soe,12 boxes,13,0,2,https://images.pexels.com/photos/2294341/pexels-photo-2294341.jpeg?auto=compress&cs=tinysrgb&w=600
