@@ -1,0 +1,9 @@
+version : "3"
+
+services:
+  Astro:
+    image: image-flavor-explorers-front
+    build: ./
+    container_name: flavor-explorers-front
+    ports:
+      - 4321:4321
