@@ -11,7 +11,7 @@ export default function MyCard() {
     useEffect(() => {
         const fetchData = async () => {
           try {
-            const response = await fetch('http//localhost:8000/api/products?skip=0&limit=5');
+            const response = await fetch('http://localhost:8000/api/products?skip=0&limit=10');
             if (!response.ok) {
               throw new Error('Network response was not ok');
             }
@@ -25,7 +25,7 @@ export default function MyCard() {
         };
     
         fetchData();
-    }, []); 
+    }, []);
     
     if (isLoading) {
     return <div>Loading...</div>;
@@ -36,30 +36,37 @@ export default function MyCard() {
     }
 
     return (
-        <>
-          {products.map(product => (
-            <Card
-                className="max-w-sm"
-                imgAlt={product.productName}
-                imgSrc={product.img}
-            >
-                <a href="#">
-                    <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
-                    {product.productName}
-                    </h5>
-                </a>
-                
-                <div className="flex items-center justify-between">
-                    <span className="text-3xl font-bold text-gray-900 dark:text-white">${product.unitPrice}</span>
-                    <a
-                        href="#"
-                        className="rounded-lg bg-cyan-700 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-cyan-800 focus:outline-none focus:ring-4 focus:ring-cyan-300 dark:bg-cyan-600 dark:hover:bg-cyan-700 dark:focus:ring-cyan-800"
-                    >
-                       Read more
-                    </a>
-                </div>
-            </Card>
-          ))}
-        </>
-    )
+      <div className="flex flex-wrap overflow-x-auto">
+        {products.map(product => (
+          <Card
+            className="max-w-sm"
+            imgAlt={product.productName}  
+          >
+            <a href="#">
+              <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
+                {product.productName}
+              </h5>
+            </a>
+
+            <div className="w-64 h-64">
+                <img
+                    className="w-full h-full object-cover object-center"
+                    src={product.img}
+                    alt={product.productName}
+                />
+            </div>
+            
+            <div className="flex items-center justify-between">
+              <span className="text-3xl font-bold text-gray-900 dark:text-white">${product.unitPrice}</span>
+              <a
+                href="#"
+                className="rounded-lg bg-cyan-700 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-cyan-800 focus:outline-none focus:ring-4 focus:ring-cyan-300 dark:bg-cyan-600 dark:hover:bg-cyan-700 dark:focus:ring-cyan-800"
+              >
+                Read More
+              </a>
+            </div>
+          </Card>
+        ))}
+    </div>
+  );
 }

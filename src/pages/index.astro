@@ -1,7 +1,5 @@
 ---
 import MyCard from "../components/MyCard.jsx"
-
-
 ---
 
 <html lang="en">
@@ -13,7 +11,6 @@ import MyCard from "../components/MyCard.jsx"
 		<title>Astro</title>
 	</head>
 	<body>
-		<h1 class='text-red-500'>Astro</h1>
-		<MyCard/>
+		<MyCard client:load />
 	</body>
 </html>
